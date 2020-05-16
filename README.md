@@ -1,7 +1,17 @@
 
-## A Game Of Quotes
+# A Game Of Quotes
 
-It a simple fun application for game of thrones fans.
-Fans get to see their favorite quotes by their favvorite characters.
-The application is hosted here [https://gameofthronesquotesforstans.web.app](https://gameofthronesquotesforstans.web.app).
+## A FreeCodeCamp Project
+This is a random game of thrones quotes machine made with REACT as requirement for completing FreeCodeCamp's Frontend Libraries Certification.
+Its a fun application for game of thrones fans. Fans get to see their favorite quotes by their favvorite characters.
+
+## Tech Stack
+- REACT
+
+## Demo
+[https://gameofthronesquotesforstans.web.app](https://gameofthronesquotesforstans.web.app)
+
+
+
+
 
